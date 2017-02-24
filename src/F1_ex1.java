@@ -2,6 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
+ * My First Java Class
  * Created by henri on 2/22/2017.
  */
 public class F1_ex1
