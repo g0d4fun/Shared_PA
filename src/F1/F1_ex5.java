@@ -1,19 +1,24 @@
-import java.util.Scanner;
+package F1;
 
 /**
  * Created by henri on 2/24/2017.
  */
+/*
 public class F1_ex5
 {
-    private static int prizeNumbers [] = new int [5];
-    private int choosenNums [];
+    public final static int MIN_VALUE = 1;
+    public final static int MAX_VALUE = 29;
+    public final static int BET_SIZE = 6;
+
+    protected int [] bet;
+    protected int betSize;
 
     public F1_ex5()
     {
-        choosenNums = new int [5];
+        bet = new int [BET_SIZE];
     }
 
-    public boolean newPrizeNumbers()
+    public boolean Fulfill()
     {
         String prizeNums = "";
 
@@ -44,3 +49,4 @@ public class F1_ex5
 
     }
 }
+*/

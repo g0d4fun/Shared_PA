@@ -1,3 +1,5 @@
+package F1;
+
 import java.util.Scanner;
 
 public class F1_ex2
