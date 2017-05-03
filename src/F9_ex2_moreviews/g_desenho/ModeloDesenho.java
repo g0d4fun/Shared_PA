@@ -5,4 +5,5 @@ package F9_ex2_moreviews.g_desenho;
  */
 public class ModeloDesenho
 {
+
 }
